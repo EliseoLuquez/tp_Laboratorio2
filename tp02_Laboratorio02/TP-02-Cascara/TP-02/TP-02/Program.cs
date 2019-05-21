@@ -40,41 +40,41 @@ namespace TP_02_2018
             changoDeCompras += a3;
             changoDeCompras += a4;
 
-            Console.WriteLine(changoDeCompras.ToString());
-            Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
+            // Muestro Todos
+            Console.WriteLine(changoDeCompras.Mostrar(changoDeCompras, Changuito.ETipo.Todos));
+            Console.WriteLine("<-------------PRESIONE UNA TECLA PARA SALIR------------->");
             Console.ReadKey();
             Console.Clear();
 
             // Quito un item y muestro
             changoDeCompras -= c1;
+            changoDeCompras -= c2;
 
-            Console.WriteLine(changoDeCompras.ToString());
+			// Muestro Todos
+			Console.WriteLine(changoDeCompras.Mostrar(changoDeCompras, Changuito.ETipo.Todos));
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
             Console.Clear();
 
-			// Muestro solo Dulces
-			Console.WriteLine(changoDeCompras.Mostrar(changoDeCompras, Changuito.ETipo.Dulce));
+            //Agrego item y lo muestro
+            changoDeCompras += c2;
+            Console.WriteLine(changoDeCompras.Mostrar(changoDeCompras, Changuito.ETipo.Dulce));
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
             Console.Clear();
-			
-            // Muestro solo Leches
+
+            // Muestro Leches
             Console.WriteLine(changoDeCompras.Mostrar(changoDeCompras, Changuito.ETipo.Leche));
-            Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
-            Console.ReadKey();
-            Console.Clear();
-
-            // Muestro solo Snacks
-            Console.WriteLine(changoDeCompras.Mostrar(changoDeCompras, Changuito.ETipo.Snacks));
             Console.WriteLine("<-------------PRESIONE UNA TECLA PARA SALIR------------->");
             Console.ReadKey();
 			Console.Clear();
-			
-			// Muestro Todos
-			Console.WriteLine(changoDeCompras.Mostrar(changoDeCompras, Changuito.ETipo.Todos));
-			Console.WriteLine("<-------------PRESIONE UNA TECLA PARA SALIR------------->");
-			Console.ReadKey();
-		}
+
+            // Muestro Snacks
+            Console.WriteLine(changoDeCompras.Mostrar(changoDeCompras, Changuito.ETipo.Snacks));
+            Console.WriteLine("<-------------PRESIONE UNA TECLA PARA SALIR------------->");
+            Console.ReadKey();
+            Console.Clear();
+
+        }
     }
 }

@@ -13,7 +13,7 @@ namespace Entidades
         private ETipo tipo;
 
         /// <summary>
-        /// Tipono es predeterminado
+        /// Tipo no es predeterminado
         /// </summary>
         /// <param name="marca"></param>
         /// <param name="patente"></param>
@@ -29,9 +29,8 @@ namespace Entidades
 		/// <param name="marca"></param>
 		/// <param name="patente"></param>
 		/// <param name="color"></param>
-		public Leche(EMarca marca, string patente, ConsoleColor color) : base(patente, marca, color)
+		public Leche(EMarca marca, string patente, ConsoleColor color) : this(marca, patente, color, ETipo.Entera)
 		{
-			this.tipo = ETipo.Entera;
 		}
 
         /// <summary>

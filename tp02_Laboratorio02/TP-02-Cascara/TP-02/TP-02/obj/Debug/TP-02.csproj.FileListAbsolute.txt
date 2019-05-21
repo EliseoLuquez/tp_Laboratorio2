@@ -28,3 +28,13 @@ C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp02_Laboratorio02\TP-
 C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\bin\Debug\Entidades.pdb
 C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\TP-02\obj\Debug\TP-02.pdb
