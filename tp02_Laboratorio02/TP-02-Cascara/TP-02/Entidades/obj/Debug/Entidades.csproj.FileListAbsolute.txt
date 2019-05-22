@@ -23,9 +23,3 @@ D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-
 D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.dll
 D:\Luquez\TP Nº2 - 2019\Tp2Mio\tp_Laboratorio2-master\tp02_Laboratorio02\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.pdb
-C:\Users\alumno\Desktop\tp_Laboratorio2\tp02_Laboratorio02\TP-02-Cascara\TP-02\Entidades\bin\Debug\Entidades.dll
-C:\Users\alumno\Desktop\tp_Laboratorio2\tp02_Laboratorio02\TP-02-Cascara\TP-02\Entidades\bin\Debug\Entidades.pdb
-C:\Users\alumno\Desktop\tp_Laboratorio2\tp02_Laboratorio02\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\alumno\Desktop\tp_Laboratorio2\tp02_Laboratorio02\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\alumno\Desktop\tp_Laboratorio2\tp02_Laboratorio02\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.dll
-C:\Users\alumno\Desktop\tp_Laboratorio2\tp02_Laboratorio02\TP-02-Cascara\TP-02\Entidades\obj\Debug\Entidades.pdb
