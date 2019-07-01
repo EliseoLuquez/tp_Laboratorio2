@@ -1,0 +1,14 @@
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\bin\Debug\FrmPpal.exe.config
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\bin\Debug\FrmPpal.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\bin\Debug\FrmPpal.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\bin\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\bin\Debug\Entidades.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\bin\Debug\Entidades.dll.config
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\obj\Debug\FrmPpal.FrmPpal.resources
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\obj\Debug\FrmPpal.Properties.Resources.resources
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\obj\Debug\FrmPpal.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\FrmPpal\obj\Debug\FrmPpal.pdb

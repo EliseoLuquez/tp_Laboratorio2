@@ -1,0 +1,6 @@
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Archivos\obj\Debug\Archivos.pdb

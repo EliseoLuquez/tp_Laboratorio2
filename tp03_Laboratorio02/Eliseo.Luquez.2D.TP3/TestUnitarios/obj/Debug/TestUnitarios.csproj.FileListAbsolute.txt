@@ -1,0 +1,28 @@
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Archivos.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Entidades Abstractas.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Excepciones.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\TP3Consola.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Entidades Abstractas.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Entidades.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Excepciones.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\TP3Consola.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\TP3Consola.exe.config
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb

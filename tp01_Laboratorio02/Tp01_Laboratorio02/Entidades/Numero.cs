@@ -63,7 +63,7 @@ namespace Entidades
 		/// </summary>
 		/// <param name="binario"></param>
 		/// <returns></returns>
-		public string BinarioDecimal(string binario)
+		public static string BinarioDecimal(string binario)
 		{
 			double numero = 0;
 			for(int i = 1; i <= binario.Length; i++)
@@ -78,7 +78,7 @@ namespace Entidades
 		/// </summary>
 		/// <param name="binario"></param>
 		/// <returns></returns>
-		public string DecimalBinario(string binario)
+		public static string DecimalBinario(string binario)
 		{
 			double numero = 0;
 			while (numero > 0)
@@ -94,9 +94,9 @@ namespace Entidades
 		/// </summary>
 		/// <param name="numero"></param>
 		/// <returns></returns>
-		public string DecimalBinario(double numero)
+		public static string DecimalBinario(double numero)
 		{
-			return this.DecimalBinario(numero.ToString());
+			return DecimalBinario(numero.ToString());
 		}
 
 		/// <summary>

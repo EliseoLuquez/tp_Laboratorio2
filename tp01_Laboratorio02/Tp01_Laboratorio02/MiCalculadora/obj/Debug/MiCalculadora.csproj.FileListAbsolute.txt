@@ -28,3 +28,9 @@ C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\Tp01_Laboratorio02\Tp0
 C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\Tp01_Laboratorio02\Tp01_Laboratorio02\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
 C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\Tp01_Laboratorio02\Tp01_Laboratorio02\MiCalculadora\obj\Debug\MiCalculadora.exe
 C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\Tp01_Laboratorio02\Tp01_Laboratorio02\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp01_Laboratorio02\Tp01_Laboratorio02\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp01_Laboratorio02\Tp01_Laboratorio02\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp01_Laboratorio02\Tp01_Laboratorio02\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp01_Laboratorio02\Tp01_Laboratorio02\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp01_Laboratorio02\Tp01_Laboratorio02\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp01_Laboratorio02\Tp01_Laboratorio02\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete

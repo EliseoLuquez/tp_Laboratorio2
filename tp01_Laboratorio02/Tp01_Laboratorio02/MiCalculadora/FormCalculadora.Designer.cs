@@ -79,7 +79,7 @@
 			this.cmbOperador.RightToLeft = System.Windows.Forms.RightToLeft.No;
 			this.cmbOperador.Size = new System.Drawing.Size(129, 39);
 			this.cmbOperador.TabIndex = 2;
-			this.cmbOperador.SelectedIndexChanged += new System.EventHandler(this.cmbOperador_SelectedIndexChanged);
+
 			// 
 			// txtNumero2
 			// 
