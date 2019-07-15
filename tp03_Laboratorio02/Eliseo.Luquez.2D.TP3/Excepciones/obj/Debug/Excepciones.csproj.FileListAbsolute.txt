@@ -4,3 +4,9 @@ C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eli
 C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb

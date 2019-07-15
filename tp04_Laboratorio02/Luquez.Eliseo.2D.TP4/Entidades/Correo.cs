@@ -15,8 +15,8 @@ namespace Entidades
 
         public List<Paquete> Paquetes
         {
-            get { return paquetes; }
-            set { paquetes = value; }
+            get { return this.paquetes; }
+            set { this.paquetes = value; }
         }
 
         public Correo()
@@ -27,7 +27,7 @@ namespace Entidades
 
         public void FinEntregas()
         {
-            foreach(Thread hilo in mockPaquetes)
+            foreach(Thread hilo in this.mockPaquetes)
             {
                 if (hilo.IsAlive)
                 {
@@ -51,18 +51,16 @@ namespace Entidades
         {
             foreach (Paquete pAux in c.paquetes)
             {
-                if (p == pAux)
+                if (pAux == p)
                 {
                     throw new TrackingIdRepetidoException("Paquete repetido: " + p.TrackingID);
                 }
-                else
-                {
-                    c.paquetes.Add(p);
-                    Thread hilo = new Thread(p.MockCicloDeVida);
-                    c.mockPaquetes.Add(hilo);
-                    hilo.Start();
-                }
             }
+            c.paquetes.Add(p);
+            Thread hilo = new Thread(p.MockCicloDeVida);
+            c.mockPaquetes.Add(hilo);
+            hilo.Start();
+                
             return c;
         }
 

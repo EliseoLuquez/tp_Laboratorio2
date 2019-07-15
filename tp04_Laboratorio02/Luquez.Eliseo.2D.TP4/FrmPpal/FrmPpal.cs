@@ -28,7 +28,6 @@ namespace FrmPpal
             try
             {
                 this.correo += paquete;
-                this.ActualizarEstados();
             }
             catch (TrackingIdRepetidoException t)
             {
@@ -38,6 +37,7 @@ namespace FrmPpal
             {
                 MessageBox.Show(ex.Message);
             }
+            this.ActualizarEstados();
         }
 
         private void btnMostrarTodos_Click(object sender, EventArgs e)
@@ -53,18 +53,16 @@ namespace FrmPpal
 
             foreach (Paquete paquete in correo.Paquetes)
             {
-                switch ((int)paquete.Estado)
+                switch (paquete.Estado)
                 {
-                    case (int)Paquete.EEstado.Ingresado:
-                        lstEstadoIngresado.Items.Add(paquete);
+                    case Paquete.EEstado.Ingresado:
+                        lstEstadoIngresado.Items.Add(paquete);;
                         break;
-                    case (int)Paquete.EEstado.EnViaje:
+                    case Paquete.EEstado.EnViaje:
                         lstEstadoEnViaje.Items.Add(paquete);
                         break;
-                    case (int)Paquete.EEstado.Entregado:
+                    case Paquete.EEstado.Entregado:
                         lstEstadoEntregado.Items.Add(paquete);
-                        break;
-                    default:
                         break;
                 }
             }
@@ -74,7 +72,7 @@ namespace FrmPpal
         {
             if(!(elemento is null))
             {
-                this.rtbMostrar.Text += elemento.MostrarDatos(elemento);
+                this.rtbMostrar.Text = elemento.MostrarDatos(elemento);
                 GuardaString.Guardar(rtbMostrar.Text, Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\Paquetes.txt");
             }
         }
@@ -99,10 +97,10 @@ namespace FrmPpal
             this.correo.FinEntregas();
         }
 
-        private void mostrarToolStripMenuItemd_Click(object sender, ToolStripItemClickedEventArgs e)
+
+        private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
         }
-
     }
 }

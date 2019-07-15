@@ -7,3 +7,12 @@ C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eli
 C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades Abstractas\obj\Debug\Entidades Abstractas.csproj.CopyComplete
 C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades Abstractas\obj\Debug\Entidades Abstractas.dll
 C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades Abstractas\obj\Debug\Entidades Abstractas.pdb
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades Abstractas\bin\Debug\Entidades Abstractas.dll
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades Abstractas\bin\Debug\Entidades Abstractas.pdb
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades Abstractas\obj\Debug\Entidades Abstractas.csprojAssemblyReference.cache
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades Abstractas\obj\Debug\Entidades Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades Abstractas\obj\Debug\Entidades Abstractas.csproj.CopyComplete
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades Abstractas\obj\Debug\Entidades Abstractas.dll
+C:\Users\Eli\Desktop\tp_Laboratorio2\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades Abstractas\obj\Debug\Entidades Abstractas.pdb

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.lstEstadoEntregado = new System.Windows.Forms.ListBox();
             this.lstEstadoEnViaje = new System.Windows.Forms.ListBox();
@@ -43,8 +44,11 @@
             this.lblDireccion = new System.Windows.Forms.Label();
             this.lblTrackingID = new System.Windows.Forms.Label();
             this.rtbMostrar = new System.Windows.Forms.RichTextBox();
+            this.cmsLista = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.mostrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
+            this.cmsLista.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -194,12 +198,26 @@
             this.rtbMostrar.TabIndex = 2;
             this.rtbMostrar.Text = "";
             // 
+            // cmsLista
+            // 
+            this.cmsLista.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.cmsLista.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mostrarToolStripMenuItem});
+            this.cmsLista.Name = "cmsLista";
+            this.cmsLista.Size = new System.Drawing.Size(130, 28);
+            // 
+            // mostrarToolStripMenuItem
+            // 
+            this.mostrarToolStripMenuItem.Name = "mostrarToolStripMenuItem";
+            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(129, 24);
+            this.mostrarToolStripMenuItem.Text = "Mostrar";
+            // 
             // FrmPpal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ContextMenuStrip = this.cmsLista;
             this.Controls.Add(this.rtbMostrar);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
@@ -210,6 +228,7 @@
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
+            this.cmsLista.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -231,6 +250,8 @@
         private System.Windows.Forms.RichTextBox rtbMostrar;
         private System.Windows.Forms.MaskedTextBox mtxTrackingID;
         private System.Windows.Forms.ListBox lstEstadoIngresado;
+        private System.Windows.Forms.ContextMenuStrip cmsLista;
+        private System.Windows.Forms.ToolStripMenuItem mostrarToolStripMenuItem;
     }
 }
 
