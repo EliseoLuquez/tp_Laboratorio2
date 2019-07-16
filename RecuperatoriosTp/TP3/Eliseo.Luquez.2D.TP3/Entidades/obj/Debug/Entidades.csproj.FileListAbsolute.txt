@@ -1,0 +1,13 @@
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\bin\Debug\Archivos.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\bin\Debug\Entidades Abstractas.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\bin\Debug\Archivos.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\bin\Debug\Entidades Abstractas.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp03_Laboratorio02\Eliseo.Luquez.2D.TP3\Entidades\obj\Debug\Entidades.pdb

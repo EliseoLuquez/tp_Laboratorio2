@@ -1,0 +1,14 @@
+D:\Luquez\Tp01_Laboratorio2\Tp01_Laboratorio02\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Luquez\Tp01_Laboratorio2\Tp01_Laboratorio02\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Luquez\Tp01_Laboratorio2\Tp01_Laboratorio02\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Luquez\Tp01_Laboratorio2\Tp01_Laboratorio02\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Luquez\Tp01_Laboratorio2\Tp01_Laboratorio02\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Luquez\Tp01_Laboratorio2\Tp01_Laboratorio02\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Luquez\Tp01_Laboratorio2\Tp01_Laboratorio02\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Eli\Documents\UTN\Tp01_Laboratorio02\Tp01_Laboratorio02\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Eli\Documents\UTN\Tp01_Laboratorio02\Tp01_Laboratorio02\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Eli\Documents\UTN\Tp01_Laboratorio02\Tp01_Laboratorio02\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Eli\Documents\UTN\Tp01_Laboratorio02\Tp01_Laboratorio02\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Tp01_Laboratorio02\Tp01_Laboratorio02\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Tp01_Laboratorio02\Tp01_Laboratorio02\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Eli\Documents\UTN\Tp01_Laboratorio02\Tp01_Laboratorio02\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

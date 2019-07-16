@@ -98,9 +98,14 @@ namespace FrmPpal
         }
 
 
-        private void mostrarToolStripMenuItem_Click(object sender, EventArgs e)
+        private void MostrarToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
+        }
+
+        private void FrmPpal_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
