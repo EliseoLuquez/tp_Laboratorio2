@@ -1,7 +1,0 @@
-C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\Entidadesss\bin\Debug\Entidadesss.dll.config
-C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\Entidadesss\bin\Debug\Entidadesss.dll
-C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\Entidadesss\bin\Debug\Entidadesss.pdb
-C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\Entidadesss\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\Entidadesss\obj\Debug\Entidadesss.dll
-C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\Entidadesss\obj\Debug\Entidadesss.pdb
-C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\TP\tp04_Laboratorio02\Luquez.Eliseo.2D.TP4\Entidadesss\obj\Debug\Entidades.csprojAssemblyReference.cache

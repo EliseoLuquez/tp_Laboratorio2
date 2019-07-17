@@ -15,18 +15,21 @@ namespace Entidades
 
         static  PaqueteDAO()
         {
-             
+            conexion = new SqlConnection(Properties.Settings.Default.correo_sp_2017ConnectionString);
+            //conexion = new SqlConnection("Data Source=[ELI-PC];Initial Catalog =[correo-sp-2017]; " +
+            //"Integrated Security = True");
+            comando = new SqlCommand();
+            comando.CommandType = CommandType.Text;
+            comando.Connection = conexion;
         }
 
         public static bool Insertar(Paquete p)
         {
             try
             {
-                conexion = new SqlConnection("Data Source=[ELI-PC];Initial Catalog =[correo-sp-2017]; " +
-                "Integrated Security = True");
-                comando = new SqlCommand(string.Format("Insert into dbo.Paquetes values ('{0}', " +
-                    "'{1}', '{2}');", p.DireccionEntrega, p.TrackingID, "Luquez.Eliseo"), conexion);
-                conexion.Open();
+                comando.CommandText = "INSERT INTO dbo.Paquetes (direccionentrega,trackingId,alumno) VALUES('" +
+                        p.DireccionEntrega + "','" + p.TrackingID + "', 'Luquez.Eliseo')";
+                comando.Connection.Open();
                 comando.ExecuteNonQuery();
                 conexion.Close();
                 return true;

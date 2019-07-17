@@ -88,7 +88,7 @@
             // 
             this.lstEstadoIngresado.FormattingEnabled = true;
             this.lstEstadoIngresado.ItemHeight = 16;
-            this.lstEstadoIngresado.Location = new System.Drawing.Point(19, 68);
+            this.lstEstadoIngresado.Location = new System.Drawing.Point(22, 68);
             this.lstEstadoIngresado.Name = "lstEstadoIngresado";
             this.lstEstadoIngresado.Size = new System.Drawing.Size(228, 180);
             this.lstEstadoIngresado.TabIndex = 3;
@@ -201,23 +201,25 @@
             // cmsListas
             // 
             this.cmsListas.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.cmsListas.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.cmsListas.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mostrarToolStripMenuItem});
             this.cmsListas.Name = "cmsListas";
-            this.cmsListas.Size = new System.Drawing.Size(130, 28);
+            this.cmsListas.Size = new System.Drawing.Size(211, 56);
             // 
             // mostrarToolStripMenuItem
             // 
             this.mostrarToolStripMenuItem.Name = "mostrarToolStripMenuItem";
-            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(129, 24);
+            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
             this.mostrarToolStripMenuItem.Text = "Mostrar";
+            this.mostrarToolStripMenuItem.Click += new System.EventHandler(this.mostrarToolStripMenuItem_Click);
             // 
             // FrmPpal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ContextMenuStrip = this.cmsListas;
             this.Controls.Add(this.rtbMostrar);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
