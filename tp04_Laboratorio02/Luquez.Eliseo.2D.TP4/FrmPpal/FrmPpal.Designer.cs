@@ -205,13 +205,14 @@
             this.cmsListas.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mostrarToolStripMenuItem});
             this.cmsListas.Name = "cmsListas";
-            this.cmsListas.Size = new System.Drawing.Size(130, 28);
+            this.cmsListas.Size = new System.Drawing.Size(211, 56);
             // 
             // mostrarToolStripMenuItem
             // 
             this.mostrarToolStripMenuItem.Name = "mostrarToolStripMenuItem";
-            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(129, 24);
+            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
             this.mostrarToolStripMenuItem.Text = "Mostrar";
+            this.mostrarToolStripMenuItem.Click += new System.EventHandler(this.mostrarToolStripMenuItem_Click);
             // 
             // FrmPpal
             // 
@@ -222,7 +223,6 @@
             this.Controls.Add(this.rtbMostrar);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
-            this.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.Name = "FrmPpal";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.Text = "Correo UTN por Luquez.Eliseo";
