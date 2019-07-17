@@ -103,9 +103,5 @@ namespace FrmPpal
             this.MostrarInformacion<Paquete>((IMostrar<Paquete>)lstEstadoEntregado.SelectedItem);
         }
 
-        private void FrmPpal_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

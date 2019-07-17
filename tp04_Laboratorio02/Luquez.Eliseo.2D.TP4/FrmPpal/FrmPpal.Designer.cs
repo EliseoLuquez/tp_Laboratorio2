@@ -226,7 +226,6 @@
             this.Name = "FrmPpal";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.Text = "Correo UTN por Luquez.Eliseo";
-            this.Load += new System.EventHandler(this.FrmPpal_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
